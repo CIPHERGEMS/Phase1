@@ -1,0 +1,12 @@
+Logistic Regression
+54.38     Accuracy
+54.38     Precision_macro
+54.38     Recall_micro
+Nearest Neighbors1
+49.36     Accuracy
+49.35     Precision_macro
+49.36     Recall_micro
+Nearest Neighbors3
+47.56     Accuracy
+47.56     Precision_macro
+47.56     Recall_micro

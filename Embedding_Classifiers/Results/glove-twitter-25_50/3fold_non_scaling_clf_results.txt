@@ -1,0 +1,52 @@
+Logistic Regression
+[55.76, 55.46, 55.16]     55.46     Accuracy
+[55.76, 55.46, 55.17]     55.46     Precision_macro
+[55.76, 55.46, 55.16]     55.46     Recall_micro
+Nearest Neighbors1
+[50.52, 50.54, 50.12]     50.39     Accuracy
+[50.51, 50.55, 50.13]     50.4     Precision_macro
+[50.51, 50.55, 50.13]     50.4     Recall_micro
+Nearest Neighbors3
+[50.67, 50.73, 50.53]     50.64     Accuracy
+[50.65, 50.73, 50.57]     50.65     Precision_macro
+[50.64, 50.73, 50.56]     50.64     Recall_micro
+Nearest Neighbors5
+[50.61, 51.49, 51.64]     51.25     Accuracy
+[50.59, 51.5, 51.71]     51.27     Precision_macro
+[50.57, 51.49, 51.68]     51.25     Recall_micro
+Linear SVM
+[55.78, 55.64, 54.54]     55.32     Accuracy
+[55.78, 55.64, 54.55]     55.32     Precision_macro
+[55.78, 55.64, 54.55]     55.32     Recall_micro
+RBF SVM
+[49.76, 49.99, 49.77]     49.84     Accuracy
+[24.88, 24.99, 24.89]     24.92     Precision_macro
+[50.0, 50.0, 50.0]     50.0     Recall_micro
+Gaussian Process
+[50.36, 50.71, 50.43]     50.5     Accuracy
+[50.34, 50.72, 50.44]     50.5     Precision_macro
+[50.34, 50.71, 50.44]     50.5     Recall_micro
+Decision Tree
+[50.96, 50.65, 51.58]     51.06     Accuracy
+[51.08, 50.69, 51.59]     51.12     Precision_macro
+[51.01, 50.64, 51.59]     51.08     Recall_micro
+Random Forest
+[52.27, 52.64, 51.17]     52.03     Accuracy
+[52.37, 52.64, 51.19]     52.07     Precision_macro
+[52.31, 52.64, 51.18]     52.04     Recall_micro
+Neural Net
+[54.47, 53.52, 55.08]     54.36     Accuracy
+[54.47, 53.61, 55.11]     54.4     Precision_macro
+[54.45, 53.52, 55.05]     54.34     Recall_micro
+AdaBoost
+[54.74, 55.13, 55.47]     55.11     Accuracy
+[54.74, 55.13, 55.46]     55.11     Precision_macro
+[54.74, 55.13, 55.46]     55.11     Recall_micro
+Naive Bayes
+[58.76, 58.21, 59.54]     58.84     Accuracy
+[58.76, 58.22, 59.57]     58.85     Precision_macro
+[58.76, 58.21, 59.55]     58.84     Recall_micro
+QDA
+[52.48, 52.76, 53.33]     52.86     Accuracy
+[52.58, 52.8, 53.34]     52.91     Precision_macro
+[52.51, 52.76, 53.31]     52.86     Recall_micro

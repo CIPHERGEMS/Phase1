@@ -1,0 +1,20 @@
+Logistic Regression
+[54.35, 55.41, 55.2]     54.99     Accuracy
+[54.35, 55.42, 55.2]     54.99     Precision_macro
+[54.35, 55.41, 55.2]     54.99     Recall_micro
+Nearest Neighbors1
+[49.99, 50.77, 50.74]     50.5     Accuracy
+[49.96, 50.77, 51.19]     50.64     Precision_macro
+[49.98, 50.77, 50.74]     50.5     Recall_micro
+Nearest Neighbors3
+[51.08, 50.52, 50.16]     50.59     Accuracy
+[52.07, 50.85, 50.4]     51.11     Precision_macro
+[51.07, 50.53, 50.16]     50.59     Recall_micro
+Nearest Neighbors5
+[51.2, 50.01, 50.74]     50.65     Accuracy
+[52.52, 50.07, 52.29]     51.63     Precision_macro
+[51.19, 50.02, 50.74]     50.65     Recall_micro
+Linear SVM
+[55.85, 54.49, 55.53]     55.29     Accuracy
+[55.85, 54.49, 55.53]     55.29     Precision_macro
+[55.85, 54.49, 55.53]     55.29     Recall_micro
