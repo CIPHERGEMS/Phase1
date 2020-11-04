@@ -1,0 +1,28 @@
+##  For artist info  ##
+https://www.discogs.com/
+
+https://bandcamp.com/
+
+https://open.spotify.com/
+
+
+##   Auto scrape  ##
+https://www.azlyrics.com/
+
+https://genius.com/
+
+
+## Manual Search  ##
+https://lyrics.az/
+
+https://www.musixmatch.com/
+
+https://www.lyrics.com/
+
+http://www.songlyrics.com/
+
+https://www.lyricsfreak.com/
+
+https://azlyrics.biz/
+
+
