@@ -1,0 +1,1 @@
+Explained variation per principal component: [0.03071656 0.02913525 0.02660031]
